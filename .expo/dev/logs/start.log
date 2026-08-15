@@ -1,0 +1,73 @@
+{"_e":"root:init","_t":1786752684462,"format":"v0-jsonl","version":"57.0.15"}
+{"_e":"env:mode","_t":1786752684462,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1786752684464,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1786752685772,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1786752685975,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1786752686128,"plugins":[]}
+{"_e":"metro:instantiate","_t":1786752688032,"atlas":false,"workers":6,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1786752688889,"id":"1","platform":"web","environment":null,"entry":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1786752688890,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786752688894,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786752689250,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:failed","_t":1786752689261,"id":"1","message":"Unable to resolve \"../../App\" from \"node_modules/expo/AppEntry.js\"\n  1 | import registerRootComponent from 'expo/src/launch/registerRootComponent';\n  2 |\n> 3 | import App from '../../App';\n    |                  ^\n  4 |\n  5 | registerRootComponent(App);\n  6 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90mnode_modules/\u001b[1mexpo\u001b[22m/AppEntry.js\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"../../App\"\u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"./node_modules/\u001b[1mexpo\u001b[22m/AppEntry\"\u001b[39m\u001b[90m\u001b[39m\n","filename":null,"targetModuleName":"../../App","originModulePath":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:started","_t":1786752696351,"id":"3","platform":"web","environment":null,"entry":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1786752696351,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786752696352,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:failed","_t":1786752696356,"id":"3","message":"Unable to resolve \"../../App\" from \"node_modules/expo/AppEntry.js\"\n  1 | import registerRootComponent from 'expo/src/launch/registerRootComponent';\n  2 |\n> 3 | import App from '../../App';\n    |                  ^\n  4 |\n  5 | registerRootComponent(App);\n  6 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90mnode_modules/\u001b[1mexpo\u001b[22m/AppEntry.js\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"../../App\"\u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"./node_modules/\u001b[1mexpo\u001b[22m/AppEntry\"\u001b[39m\u001b[90m\u001b[39m\n","filename":null,"targetModuleName":"../../App","originModulePath":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:started","_t":1786752775935,"id":"5","platform":"web","environment":null,"entry":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1786752775935,"id":"5","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786752775942,"id":"5","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:failed","_t":1786752775949,"id":"5","message":"Unable to resolve \"../../App\" from \"node_modules/expo/AppEntry.js\"\n  1 | import registerRootComponent from 'expo/src/launch/registerRootComponent';\n  2 |\n> 3 | import App from '../../App';\n    |                  ^\n  4 |\n  5 | registerRootComponent(App);\n  6 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90mnode_modules/\u001b[1mexpo\u001b[22m/AppEntry.js\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"../../App\"\u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"./node_modules/\u001b[1mexpo\u001b[22m/AppEntry\"\u001b[39m\u001b[90m\u001b[39m\n","filename":null,"targetModuleName":"../../App","originModulePath":"node_modules/expo/AppEntry.js"}
+{"_e":"root:init","_t":1786752948785,"format":"v0-jsonl","version":"57.0.15"}
+{"_e":"env:mode","_t":1786752948786,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1786752948788,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1786752991124,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1786752991350,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1786752991512,"plugins":[]}
+{"_e":"metro:instantiate","_t":1786752993419,"atlas":false,"workers":6,"host":"::","port":8082}
+{"_e":"metro:bundling:started","_t":1786752993849,"id":"1","platform":"web","environment":null,"entry":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1786752993850,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786752993856,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786752993956,"id":"1","progress":0.010000000000000002,"total":3,"current":1}
+{"_e":"metro:bundling:progress","_t":1786752994256,"id":"1","progress":0.04000000000000001,"total":3,"current":2}
+{"_e":"metro:bundling:progress","_t":1786752994358,"id":"1","progress":0.27700831024930744,"total":19,"current":10}
+{"_e":"metro:bundling:progress","_t":1786752994462,"id":"1","progress":0.3964334705075446,"total":27,"current":17}
+{"_e":"metro:bundling:progress","_t":1786752994594,"id":"1","progress":0.5243757431629014,"total":29,"current":21}
+{"_e":"metro:bundling:progress","_t":1786752994694,"id":"1","progress":0.5243757431629014,"total":39,"current":27}
+{"_e":"metro:bundling:progress","_t":1786752994795,"id":"1","progress":0.525625,"total":40,"current":29}
+{"_e":"metro:bundling:progress","_t":1786752994895,"id":"1","progress":0.6334860474802165,"total":49,"current":39}
+{"_e":"metro:bundling:progress","_t":1786752994996,"id":"1","progress":0.765625,"total":56,"current":49}
+{"_e":"metro:bundling:progress","_t":1786752995099,"id":"1","progress":0.9322235434007136,"total":58,"current":56}
+{"_e":"metro:bundling:progress","_t":1786752995207,"id":"1","progress":0.999,"total":58,"current":58}
+{"_e":"metro:bundling:failed","_t":1786752995212,"id":"1","message":"Unable to resolve \"react-native-web/dist/exports/SafeAreaView\" from \"App.tsx\"\n> 1 | import React from 'react';\n  2 | import { SafeAreaView, StatusBar } from 'react-native';\n  3 | import Home from './src/components/screens/home';\n  4 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mApp.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"react-native-web/dist/exports/SafeAreaView\"\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90mnode_modules/\u001b[1mexpo\u001b[22m/AppEntry.js\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"../../App\"\u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"./node_modules/\u001b[1mexpo\u001b[22m/AppEntry\"\u001b[39m\u001b[90m\u001b[39m\n","filename":null,"targetModuleName":"react-native-web/dist/exports/SafeAreaView","originModulePath":"App.tsx"}
+{"_e":"root:init","_t":1786753033094,"format":"v0-jsonl","version":"57.0.15"}
+{"_e":"env:mode","_t":1786753033095,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1786753033096,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1786753051107,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1786753051326,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1786753051498,"plugins":[]}
+{"_e":"metro:instantiate","_t":1786753053584,"atlas":false,"workers":6,"host":"::","port":8083}
+{"_e":"metro:bundling:started","_t":1786753053984,"id":"1","platform":"web","environment":null,"entry":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1786753053985,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786753053989,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786753054089,"id":"1","progress":0.8751300728407907,"total":62,"current":58}
+{"_e":"metro:bundling:progress","_t":1786753054486,"id":"1","progress":0.9055671175858482,"total":62,"current":59}
+{"_e":"metro:bundling:progress","_t":1786753054588,"id":"1","progress":0.9055671175858482,"total":79,"current":62}
+{"_e":"metro:bundling:progress","_t":1786753054695,"id":"1","progress":0.9055671175858482,"total":86,"current":65}
+{"_e":"metro:bundling:progress","_t":1786753054795,"id":"1","progress":0.9055671175858482,"total":98,"current":75}
+{"_e":"metro:bundling:progress","_t":1786753054895,"id":"1","progress":0.9055671175858482,"total":106,"current":81}
+{"_e":"metro:bundling:progress","_t":1786753054996,"id":"1","progress":0.9055671175858482,"total":122,"current":95}
+{"_e":"metro:bundling:progress","_t":1786753055096,"id":"1","progress":0.9055671175858482,"total":134,"current":111}
+{"_e":"metro:bundling:progress","_t":1786753055196,"id":"1","progress":0.9055671175858482,"total":145,"current":119}
+{"_e":"metro:bundling:progress","_t":1786753055296,"id":"1","progress":0.9055671175858482,"total":173,"current":135}
+{"_e":"metro:bundling:progress","_t":1786753055397,"id":"1","progress":0.9055671175858482,"total":176,"current":146}
+{"_e":"metro:bundling:progress","_t":1786753055497,"id":"1","progress":0.9055671175858482,"total":185,"current":159}
+{"_e":"metro:bundling:progress","_t":1786753055597,"id":"1","progress":0.9055671175858482,"total":198,"current":183}
+{"_e":"metro:bundling:progress","_t":1786753055697,"id":"1","progress":0.912324800418267,"total":223,"current":213}
+{"_e":"metro:bundling:progress","_t":1786753055797,"id":"1","progress":0.9912473068636504,"total":228,"current":227}
+{"_e":"metro:bundling:progress","_t":1786753056914,"id":"1","progress":0.999,"total":228,"current":228}
+{"_e":"metro:bundling:progress","_t":1786753057015,"id":"1","progress":0.999,"total":230,"current":230}
+{"_e":"metro:bundling:done","_t":1786753057039,"id":"1","total":230,"ms":3054.67843}
+{"_e":"metro:client_log","_t":1786753057168,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1786753057170,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1786753057170,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
